@@ -1,0 +1,3 @@
+[{'type': 'text', 
+  'text': 'Hello there.', 
+  'extras': {'signature': 'CnMB0e2Kb9g0wir6B1UksRxOmpzNtTdpeePzY5gbEYBlk5ohm2M5hz37kdj7QuB87S49iIIyuYuaqHimeElSX2VK3Iri7c6cssLNiadfEZ74GxoL5/VaG5oTVThd+eo3u0Nxnqg9wpx7qKSr4LxL0iYvNJQB'}}]
